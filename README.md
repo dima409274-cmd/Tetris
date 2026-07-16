@@ -5,8 +5,8 @@
 
 ### Запуск
 
-1. Установите **.NET 8 Runtime** (если ещё не установлен):  
-   [Прямая ссылка на скачивание с microsoft.com](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.29/windowsdesktop-runtime-8.0.29-win-x64.exe)
+1. Установите **.NET 10 Runtime** (если ещё не установлен):  
+   [Прямая ссылка на скачивание с microsoft.com](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.10/windowsdesktop-runtime-10.0.10-win-x64.exe)
 
 2. Скачайте последний релиз (**Tetris.zip**) из раздела **Releases** этого репозитория.
 
