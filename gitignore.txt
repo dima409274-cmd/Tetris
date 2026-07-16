@@ -1,0 +1,40 @@
+# Binaries
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test results and coverage
+TestResults/
+[Tt]est[Rr]esult*/
+coverage.xml
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Build output (additional)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+arm64/
+
+# IDE files (JetBrains)
+.idea/
+
+# Misc
+*.log
+*.tmp
+*.cache
+Thumbs.db
+Desktop.ini
